@@ -1,0 +1,12 @@
+class BankAccount{
+
+public static void accountdetails(String args []){
+ boolean 
+
+
+
+
+
+
+}
+} 

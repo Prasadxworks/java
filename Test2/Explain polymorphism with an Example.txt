@@ -1,0 +1,26 @@
+Explain polymorphism with an Example?
+Ans:- Polymorphism is  a single function or method can operate in different 
+ways depending on the type of object or data it is Performing with
+example:-
+
+Think of it like a person who can have different roles in different situations.
+
+
+
+Explain Constructor Chaining with an example?
+Ans:- Constructor chaining is a technique in object-oriented programming 
+where a constructor in a class calls another constructor in the same
+ class (or in the parent class)
+This is useful for reusing code and reducing redundancy.
+
+Explain Inheritance with an Example?
+
+Ans:-Inheritance is that allows one class (the child or subclass) properties and behaviors from another class 
+(the parent or superclass) it is  relationship between classes.
+
+Explain Encapsulation with an Example?
+
+Ans:-Encapsulation is (attributes) and methods (functions) 
+that operate on the data into a single unit or class. 
+It also involves restricting direct access to some of the object
+ which helps to protect the internal state of the object
